@@ -1,6 +1,8 @@
-Program Java: Motivasi Harian
+  PROGRAM_JAVA 
+  
+KATA-KATA MOTIVASI
 
-Deskripsi
+PENJELASAN TAUFIK
 
 Program sederhana berbasis Java Console ini meminta pengguna untuk memasukkan nama, lalu memberikan pesan motivasi yang membangkitkan semangat.
 Program ini menggunakan kelas Scanner untuk menerima input dari pengguna dan menampilkan pesan motivasi di layar.
@@ -53,13 +55,15 @@ Masukkan nama kamu ketika diminta, lalu lihat pesan motivasi yang muncul
 Contoh Output
 
 ===----------===
+
 ======----======
 
-Masukkan Nama: Taufik
+Masukkan Nama: TAUFIK
 
 KASI KATA-KATA HARI
-SEMANGAT Taufik
-JADIKANLAH UJIAN DI DUNIA ITU MENJADI TEMAN SEMENTAR KAMU
+SEMANGAT TAUFIK
+
+JADIKANLAH UJIAN DI DUNIA INI MENJADI TEMAN SEMENTAR KAMU
 
 Catatan
 
