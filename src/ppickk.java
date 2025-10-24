@@ -8,9 +8,8 @@ public class ppickk {
         System.out.println("======----======");
         System.out.print("Masukkan Nama: ");
         String nama = input.nextLine();
-        // System.out.print("APA YANG TERJADI DI DUNIA INI: ");
-        //  String dunia = input.nextLine();
-        System.out.print("KASI KATA-KATA HARI");
+        System.out.print("APA YANG TERJADI DI DUNIA INI: ");
+        System.out.print("KATA-KATA HARI");
         //  String kata = input.nextLine();
 
         System.out.println("\nSEMANGAT " + nama + "");

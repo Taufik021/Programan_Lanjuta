@@ -13,7 +13,7 @@ Menampilkan tampilan pembuka sederhana (dekorasi dengan tanda "=" dan "-").
 
 Meminta pengguna memasukkan nama.
 
-Menampilkan pesan motivasi personal berdasarkan nama yang dimasukkan.
+Menampilkan pesan motivasi berdasarkan nama yang dimasukkan.
 
 Kode Program
 
